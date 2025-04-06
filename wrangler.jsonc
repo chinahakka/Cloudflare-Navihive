@@ -17,14 +17,14 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navihive-d1",
-            "database_id": "ff6f041a-d8f6-42de-9e83-71487b644bb4"
+            "database_name": "navigation-db",
+            "database_id": "47a299a4-15eb-4e00-bb99-a06c2ebe9603"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "lyx",
+        "AUTH_PASSWORD": "777",
+        "AUTH_SECRET": "l77y07x14"
     }
 }
